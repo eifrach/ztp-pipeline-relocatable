@@ -1,2 +1,2 @@
 resources:
-  - contrib-deploy-gpu.yaml
+  - contrib-gpu-operator.yaml
