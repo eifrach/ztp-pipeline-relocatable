@@ -1,2 +1,2 @@
 resources:
-  - spoke-deploy-gpu.yaml
+  - contrib-deploy-gpu.yaml
